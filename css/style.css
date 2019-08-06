@@ -9,8 +9,8 @@ body {
 
 .font {
     font-family: "Titillium Web";
-    font-size: 18px;
+    /* font-size: 18px;
     font-weight: 400;
-    letter-spacing: 0px;
+    letter-spacing: 0px; */
     font-style: normal;
 }
